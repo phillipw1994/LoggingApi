@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "LoggingWorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
